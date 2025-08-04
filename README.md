@@ -19,6 +19,6 @@ Frontman is powered by dual Raspberry Pi Pico 2 boards and features three circul
 
 The directory "Flash_Files" contains the pre-compiled files for the Raspberry Pi Pico 2 - Just push the Pico's button, connect the USB and drag the .UF2 flash file to the relevant Eyes- and Mouth- controlling board.
 
-▪ Software
+▪ Software (Pico SDK, VisualStudio)
 
 For the more adventurous, feel free to download and unzip the full Pico SDK—then dive in and start rewriting the code from scratch.
