@@ -1,6 +1,6 @@
 # Frontman
 
-![Frontman Module](https://www.erikoostveen.co.uk/assets/img/Frontman/Frontman_love.jpg)
+![Frontman Module](https://www.erikoostveen.co.uk/assets/img/Frontman/slide-11.jpg)
 
 
 ▪ Introduction
